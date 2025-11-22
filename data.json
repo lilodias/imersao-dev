@@ -1,0 +1,434 @@
+[
+  {
+    "nome": "Declive",
+    "cidade": "Curitiba",
+    "descricao": "Banda curitibana de heavy hardcore, com riffs pesados e vocais agressivos.",
+    "subgenero": "Heavy Hardcore",
+    "link": "https://open.spotify.com/intl-pt/artist/6pwIwfF5TQs1lKCV8PLuKs?si=b1517c5f2f0249e6",
+    "imagem": "https://downstage.com.br/wp-content/uploads/2025/04/Declive2025-1024x683.jpg"
+  },
+  {
+    "nome": "Budang",
+    "cidade": "Florianópolis",
+    "descricao": "Banda de hardcore da ilha da magia.",
+    "subgenero": "Hardcore",
+    "link": "https://open.spotify.com/intl-pt/artist/1ypiQPoiTZnYtOPMFtIgsN?si=1acb36070d9347b2",
+    "imagem": "https://uploads.tenhomaisdiscosqueamigos.com/2025/09/budang-banda-hardcore-1152x768.jpg"
+  },
+  {
+    "nome": "Dead Fish",
+    "cidade": "Vitória",
+    "descricao": "Uma das maiores bandas de hardcore melódico do Brasil.",
+    "subgenero": "Hardcore Melódico",
+    "link": "https://open.spotify.com/artist/0i3TPx23A3e40Z2n2xpa3A",
+    "imagem": "https://bravo.abril.com.br/wp-content/uploads/2024/01/Dead-Fish-por-Lucca-Miranda.jpg?crop=1&resize=1212,909"
+  },
+  {
+    "nome": "Ratos de Porão",
+    "cidade": "São Paulo",
+    "descricao": "Banda icônica de hardcore/crossover de São Paulo.",
+    "subgenero": "Crossover Thrash",
+    "link": "https://open.spotify.com/artist/2iZ2WH0oYAEsI22T5f2I17",
+    "imagem": "https://rollingstone.com.br/wp-content/uploads/ratos_de_porao_reprod_fb.jpg"
+  },
+  {
+    "nome": "Questions",
+    "cidade": "São Paulo",
+    "descricao": "Banda de hardcore straight edge com influências de New York Hardcore.",
+    "subgenero": "NY Hardcore",
+    "link": "https://open.spotify.com/artist/1N3JpmEGE71e33unxmdS2A",
+    "imagem": "https://f4.bcbits.com/img/0005271391_10.jpg"
+  },
+  {
+    "nome": "Paura",
+    "cidade": "São Paulo",
+    "descricao": "Referência do metalcore/hardcore pesado no Brasil desde os anos 90.",
+    "subgenero": "Metalcore",
+    "link": "https://open.spotify.com/artist/6cE02s94gS1jI1S7g3umgG",
+    "imagem": "https://popfantasma.com.br/wp-content/uploads/2023/07/paura-karmic-punishment.jpg"
+  },
+  {
+    "nome": "Turnstile",
+    "cidade": "Baltimore",
+    "descricao": "Banda popular que mistura elementos de hardcore, rock alternativo e até dream pop.",
+    "subgenero": "Alternative Hardcore",
+    "link": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x",
+    "imagem": "https://uploads.tenhomaisdiscosqueamigos.com/2025/04/RArFXn1o-turnstile-novo-disco-inedita-never-enough.webp"
+  },
+  {
+    "nome": "Chuva Negra",
+    "cidade": "São Paulo",
+    "descricao": "Banda de hardcore de São Paulo com letras politizadas e som agressivo.",
+    "subgenero": "Hardcore",
+    "link": "https://open.spotify.com/artist/521Y6s2i2nZQ2n2I2QxU5a",
+    "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi32vvDr0ul9zyz6kZ2md5ks8wHYPtOOKAQrxlmK6quqztpq6_sAh8m9ypFSW67UsJD9KxgBB7yIQgqZq__3_ywCMR7gxnabgmd3XHip_HjApEz1mHZXHZryBtXPdSE_3kn_cRbMzIdMro/s1600/chuva+negra.jpg"
+  },
+  {
+    "nome": "Clava",
+    "cidade": "São Paulo",
+    "descricao": "Banda de hardcore de São Paulo, formada por ex-membros de bandas como Paura e Questions.",
+    "subgenero": "Hardcore",
+    "link": "https://open.spotify.com/artist/5L3s2tTSSz3aKMHq2f95v3",
+    "imagem": "https://f4.bcbits.com/img/0035468759_10.jpg"
+  },
+  {
+    "nome": "Comeback Kid",
+    "cidade": "Winnipeg",
+    "descricao": "Veteranos do Canadá, conhecidos pela energia, velocidade e refrões marcantes.",
+    "subgenero": "Hardcore Melódico",
+    "link": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtN3DR",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrggN2tT6nwKPLhRjfbVZNIpCupfBR1k7-g&s"
+  },
+  {
+    "nome": "Ignite",
+    "cidade": "Orange County",
+    "descricao": "Hardcore melódico clássico da Califórnia com vocais limpos e poderosos.",
+    "subgenero": "Hardcore Melódico",
+    "link": "https://open.spotify.com/artist/4aeC62oeNn1x3LBPW2bJ3E",
+    "imagem": "https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2019/11/ignite.jpg"
+  },
+  {
+    "nome": "Sunami",
+    "cidade": "San Jose",
+    "descricao": "Uma das bandas mais pesadas e diretas da nova cena 'Real Bay Shit'.",
+    "subgenero": "Hardcore Beatdown",
+    "link": "https://open.spotify.com/artist/015iWza51Wco8fG8eT6625",
+    "imagem": "https://www.noecho.net/uploads/wysiwyg/sunami-band-2020.jpg"
+  },
+  {
+    "nome": "Knocked Loose",
+    "cidade": "Oldham County",
+    "descricao": "Mistura de metalcore e hardcore com breakdowns devastadores e vocais únicos.",
+    "subgenero": "Hardcore Beatdown",
+    "link": "https://open.spotify.com/artist/4qrHj6kAEymbTuUjAbGgWv",
+    "imagem": "https://roadiecrew.com/wp-content/uploads/knocked-loose-2024-banda.jpg"
+  },
+  {
+    "nome": "Kublai Khan TX",
+    "cidade": "Sherman",
+    "descricao": "Metalcore/Beatdown do Texas com peso absurdo e letras sobre a realidade.",
+    "subgenero": "Hardcore Beatdown",
+    "link": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4",
+    "imagem": "https://i.scdn.co/image/ab6761610000e5eb1b6a15dd91dd174fcbebd791"
+  },
+  {
+    "nome": "Hatebreed",
+    "cidade": "Wallingford",
+    "descricao": "Pioneiros do metallic hardcore de Connecticut, conhecidos por riffs pesados, breakdowns intensos e letras motivacionais.",
+    "subgenero": "Metallic Hardcore",
+    "link": "https://open.spotify.com/artist/17s7DvsipHWBScezzmfGBE",
+    "imagem": "https://external-preview.redd.it/former-hatebreed-guitarist-chris-beattie-says-he-is-done-v0-tBGq81wUg4k6TwMvJMgWKe8xA2v4W4qu24_Oft3bZKY.jpg?width=640&crop=smart&auto=webp&s=1722bf3fffc9e8c14bacf9f43081c3057bb75af6"
+  },
+  {
+    "nome": "Madball",
+    "cidade": "Nova York",
+    "descricao": "Uma das bandas essenciais do NYHC, Madball é conhecida por seu som agressivo, direto e por ser liderada pelo vocalista Freddy Cricien.",
+    "subgenero": "NY Hardcore",
+    "link": "https://open.spotify.com/artist/5LhQJMnv3aqkHKGaYYP6I7",
+    "imagem": "https://i0.wp.com/www.wikimetal.com.br/wp-content/uploads/2024/12/Madball.jpg?resize=1170%2C658&ssl=1"
+  },
+  {
+    "nome": "Minor Threat",
+    "cidade": "Washington, D.C.",
+    "descricao": "Banda seminal de Washington D.C., crucial para o desenvolvimento do movimento Youth Crew e da ética Straight Edge. Liderada por Ian MacKaye.",
+    "subgenero": "Youth Crew",
+    "link": "https://open.spotify.com/artist/4OTTTO6yGf5YFJKwGfN7md",
+    "imagem": "https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2018/11/Minor-Threat-Salad-Days-Capa.jpg"
+  },
+  {
+    "nome": "Bad Brains",
+    "cidade": "Washington, D.C.",
+    "descricao": "Inovadores absolutos, misturando velocidade extrema do hardcore com elementos de reggae e funk. Considerados uma das bandas mais tecnicamente proficientes do gênero.",
+    "subgenero": "Hardcore Punk",
+    "link": "https://open.spotify.com/artist/1TjKMPjZpM5hUXmbOcWPHT",
+    "imagem": "https://static.wixstatic.com/media/607c45_189a14cd8ca84049be852dc0a6bddb5a~mv2.jpg/v1/fill/w_568,h_406,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/607c45_189a14cd8ca84049be852dc0a6bddb5a~mv2.jpg"
+  },
+  {
+    "nome": "Black Flag",
+    "cidade": "Hermosa Beach",
+    "descricao": "Uma das bandas mais influentes da primeira onda do hardcore punk americano. Caracterizada por sua intensidade crua e a constante mudança de vocalistas, incluindo Henry Rollins.",
+    "subgenero": "Hardcore Punk",
+    "link": "https://open.spotify.com/artist/5MhsYeCWGfNKiHukCmlGSh",
+    "imagem": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/0/5/7/d0574b2a8aae8b3b810472e51c464233.jpg"
+  },
+  {
+    "nome": "Discharge",
+    "cidade": "Stoke-on-Trent",
+    "descricao": "Banda britânica que revolucionou o punk e o hardcore com seu som brutal e minimalista, sendo crucial para o desenvolvimento do D-beat e do crust punk.",
+    "subgenero": "D-beat",
+    "link": "https://open.spotify.com/artist/7L9g94N8NqodTgR5Mbsc1d",
+    "imagem": "https://www.rockbizz.com.br/wp-content/uploads/2017/11/Discharge.jpg"
+  },
+  {
+    "nome": "Gorilla Biscuits",
+    "cidade": "Nova York",
+    "descricao": "Um dos pilares do Youth Crew de Nova York no final dos anos 80, conhecidos por sua energia juvenil e letras positivas.",
+    "subgenero": "Youth Crew",
+    "link": "https://open.spotify.com/artist/4S0t2V1XvQ3R3C7s3x1L5Q",
+    "imagem": "https://agendametal.com.br/wp-content/uploads/2024/04/gorillabiscuits.jpeg"
+  },
+  {
+    "nome": "Judge",
+    "cidade": "Nova York",
+    "descricao": "Banda straight edge de Nova York com um som poderoso, focado e metálico. Um marco do subgênero Youth Crew mais agressivo.",
+    "subgenero": "Youth Crew",
+    "link": "https://open.spotify.com/artist/3S1rX45y4P4eM2l6t2Gf0b",
+    "imagem": "https://onstage.mus.br/website/wp-content/uploads/2017/07/gal_judge.jpg"
+  },
+  {
+    "nome": "Shelter",
+    "cidade": "Nova York",
+    "descricao": "Fundada por Ray Cappo (ex-Youth of Today), esta banda é conhecida por sua fusão de melodic hardcore com filosofia Hare Krishna, popularizando o Krishna-core.",
+    "subgenero": "Krishna-core",
+    "link": "https://open.spotify.com/artist/3F7U015e510H8t3Dq1x95T",
+    "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi09qxG5sVPyW1vTjgq4yYLPSxFpuOnDGol4a9yKGQYHaBjeJETqVrUKkhcW_Je_vM6EZxjpaodnh96YiFy4LxYnJ6ItZGXNag6Db3W61RGW6Bo9I8VOmSsliTTxvj_4ufoulnkiI0KSdc/s1600/shelter.jpg"
+  },
+  {
+    "nome": "Cro-Mags",
+    "cidade": "Nova York",
+    "descricao": "Lenda do NYHC, notórios por serem uma das primeiras bandas a misturar hardcore punk com thrash metal, pioneiros do crossover.",
+    "subgenero": "Crossover Thrash",
+    "link": "https://open.spotify.com/artist/4XCPZt3bQ3vjEwHmySjLsx",
+    "imagem": "https://cdn-images.dzcdn.net/images/artist/e0a94350f7a7d0466c8034ccf1f0c866/1900x1900-000000-80-0-0.jpg"
+  },
+  {
+    "nome": "Agnostic Front",
+    "cidade": "Nova York",
+    "descricao": "Apelidados de 'Godfathers of Hardcore', são essenciais para a cena de Nova York, conhecidos por sua postura dura e letras sobre a vida urbana.",
+    "subgenero": "NY Hardcore",
+    "link": "https://open.spotify.com/artist/3cdHrLgRnfKFoIeJgnhQoQ",
+    "imagem": "https://roadiecrew.com/wp-content/uploads/agnostic-front.jpg"
+  },
+  {
+    "nome": "Bane",
+    "cidade": "Worcester",
+    "descricao": "Importante banda de Massachusetts, conhecida por seu melodic hardcore enérgico, direto e emocional, com foco na irmandade da cena.",
+    "subgenero": "Hardcore Melódico",
+    "link": "https://open.spotify.com/artist/6P2XyWb02n5Gq7vB9h2Y9j",
+    "imagem": "https://sonoridadeunderground.com.br/wp-content/uploads/2024/04/bane-2024.jpg"
+  },
+  {
+    "nome": "Have Heart",
+    "cidade": "Boston",
+    "descricao": "Banda proeminente do Youth Crew moderno, de Boston. Sua música é caracterizada por fervor emocional, intensidade lírica e um som massivo, com forte mensagem straight edge.",
+    "subgenero": "Youth Crew",
+    "link": "https://open.spotify.com/artist/6KgozD2Kj4D3n4fS9Yg1lJ",
+    "imagem": "https://images.squarespace-cdn.com/content/v1/54749e9be4b035ef76f778db/469bdc0a-f69d-4c76-ab81-57c12f48fcea/HEAVYHEX_photo-Larry_band.jpg?format=2500w"
+  },
+  {
+    "nome": "Ceremony",
+    "cidade": "Rohnert Park",
+    "descricao": "Inicialmente conhecida por seu powerviolence rápido e caótico, evoluíram para um som mais post-punk e noise rock, mantendo a agressividade hardcore.",
+    "subgenero": "Powerviolence",
+    "link": "https://open.spotify.com/artist/4PqPzXWcK4jQ1T3t6JADQk",
+    "imagem": "https://images.squarespace-cdn.com/content/v1/54749e9be4b035ef76f778db/1482867211533-1NOBOVBFGI3EBPV17IBU/ceremony-1433607322.jpg"
+  },
+  {
+    "nome": "Fiddlehead",
+    "cidade": "Boston",
+    "descricao": "Projeto de membros do Have Heart e Basement, esta banda foca em um post-hardcore melancólico e altamente emotivo, com raízes profundas no punk rock.",
+    "subgenero": "Post-Hardcore",
+    "link": "https://open.spotify.com/artist/1d2D6g3Pj4tYfG0M01r3dY",
+    "imagem": "https://agendametal.com.br/wp-content/uploads/2025/11/fiddlehead.jpg"
+  },
+  {
+    "nome": "Code Orange",
+    "cidade": "Pittsburgh",
+    "descricao": "Banda de Pittsburgh que redefiniu o metallic hardcore moderno, incorporando elementos de noise, industrial e metal extremo, criando uma atmosfera densa e caótica.",
+    "subgenero": "Metallic Hardcore",
+    "link": "https://open.spotify.com/artist/3Dn1T9yfN9KjSgDQW96qMt",
+    "imagem": "https://igormiranda.com.br/wp-content/uploads/2021/11/Code-Orange-2021-banda.jpg"
+  },
+  {
+    "nome": "Terror",
+    "cidade": "Los Angeles",
+    "descricao": "Uma das bandas mais consistentes do metallic hardcore de Los Angeles no século XXI, conhecida por seu som direto, pesado e pelo lema 'Keepers of the Faith'.",
+    "subgenero": "Metallic Hardcore",
+    "link": "https://open.spotify.com/artist/6K9c7S6gL4T9p0R0JkQBGj",
+    "imagem": "https://reggieslive.com/wp-content/uploads/terror_hardcore.jpg"
+  },
+  {
+    "nome": "Expire",
+    "cidade": "Milwaukee",
+    "descricao": "Banda de metallic hardcore que tocava um som rápido, violento e sem frescura, com influências claras de NYHC e mosh/beatdown.",
+    "subgenero": "Metallic Hardcore",
+    "link": "https://open.spotify.com/artist/2G1h4o2N046k50c8651v3w",
+    "imagem": "https://images.squarespace-cdn.com/content/v1/54749e9be4b035ef76f778db/1481739802006-09RDIF5CO44MFPD0HZZ8/11205958_927546310630152_4305765483905311774_n.jpg"
+  },
+  {
+    "nome": "Harm's Way",
+    "cidade": "Chicago",
+    "descricao": "Banda que mistura o peso do metal industrial com a brutalidade do beatdown hardcore, resultando em um som extremamente físico e ameaçador.",
+    "subgenero": "Metallic Hardcore",
+    "link": "https://open.spotify.com/artist/5S6NylQvLmiCclmFmCmtQn",
+    "imagem": "https://i0.wp.com/therazorsedge.rocks/wp-content/uploads/2023/09/IMG_2005.jpeg?resize=640%2C381&ssl=1"
+  },
+  {
+    "nome": "Trapped Under Ice",
+    "cidade": "Baltimore",
+    "descricao": "Referência do beatdown hardcore de Baltimore, com forte influência do NYHC clássico, focando em riffs pesados e breakdowns memoráveis.",
+    "subgenero": "Hardcore Beatdown",
+    "link": "https://open.spotify.com/artist/5eJd4E6b1gTngpUoF7qX5A",
+    "imagem": "https://i.scdn.co/image/b716418c80712ee6b102907780bb60a35f2c7d6d"
+  },
+  {
+    "nome": "Soul Glo",
+    "cidade": "Filadélfia",
+    "descricao": "Hardcore caótico e experimental de Filadélfia, que combina elementos de screamo, noise e punk, com letras socialmente engajadas e fúria crua.",
+    "subgenero": "Experimental Hardcore",
+    "link": "https://open.spotify.com/artist/38580EpeR3XlQY16MSZg5M",
+    "imagem": "https://igormiranda.com.br/wp-content/uploads/2022/11/soul-glo-2022-banda.jpg"
+  },
+  {
+    "nome": "Every Time I Die",
+    "cidade": "Buffalo",
+    "descricao": "Embora classificada como metalcore/mathcore, a banda sempre manteve a essência hardcore em sua abordagem caótica, técnica e lírica, influenciando o som moderno.",
+    "subgenero": "Mathcore",
+    "link": "https://open.spotify.com/artist/29CTrENYYKaKtmASjmW59H",
+    "imagem": "https://static.independent.co.uk/2022/01/18/08/newFile-2.jpg?width=1200"
+  },
+  {
+    "nome": "The Bronx",
+    "cidade": "Los Angeles",
+    "descricao": "Hardcore punk direto e melódico de Los Angeles, conhecido por sua energia frenética ao vivo e a dualidade com o projeto mariachi 'Mariachi El Bronx'.",
+    "subgenero": "Hardcore Punk",
+    "link": "https://open.spotify.com/artist/7z5CT6Zk5G3GgNMJD7SB1N",
+    "imagem": "https://lastfm.freetls.fastly.net/i/u/ar0/9e88ab2ccde9666cee76a144e81a2e11.jpg"
+  },
+  {
+    "nome": "Touche Amore",
+    "cidade": "Los Angeles",
+    "descricao": "Proeminentes no movimento screamo/post-hardcore moderno, conhecidos por vocais gritados, letras poéticas e músicas curtas e intensas.",
+    "subgenero": "Screamo",
+    "link": "https://open.spotify.com/artist/1EUmC0W2E2ckSNOyzhHCeX",
+    "imagem": "https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2014/03/touche-amore.jpg"
+  },
+  {
+    "nome": "Modern Life Is War",
+    "cidade": "Marshalltown",
+    "descricao": "Banda de melodic hardcore com ênfase na introspecção lírica e atmosfera densa. Seu som é emocionalmente carregado e altamente influente no hardcore dos anos 2000.",
+    "subgenero": "Hardcore Melódico",
+    "link": "https://open.spotify.com/artist/0F4YdNYkE9t20jR9Q5oHqT",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Mliw.jpg"
+  },
+  {
+    "nome": "Battery",
+    "cidade": "Washington, D.C.",
+    "descricao": "Banda straight edge dos anos 90, com forte influência Youth Crew e DC Hardcore, conhecida por suas mensagens políticas e sociais claras.",
+    "subgenero": "Youth Crew",
+    "link": "https://open.spotify.com/artist/1G2D2pXf1c6jLwYyH9d2f2",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Battery_Coney_Island_High_1998.jpg"
+  },
+  {
+    "nome": "Good Clean Fun",
+    "cidade": "Washington, D.C.",
+    "descricao": "Hardcore Youth Crew com foco em letras humorísticas sobre veganismo, straight edge e positividade, de forma leve e divertida.",
+    "subgenero": "Youth Crew",
+    "link": "https://open.spotify.com/artist/6S0HlqO2tX2W72M38d38nK",
+    "imagem": "https://i.scdn.co/image/ab67616d00001e02439046f1b4358fad68f1344b"
+  },
+  {
+    "nome": "Strife",
+    "cidade": "Los Angeles",
+    "descricao": "Banda crucial do metallic hardcore/Youth Crew Straight Edge da Califórnia, conhecida por sua agressividade e riffs inspirados no metal.",
+    "subgenero": "Metallic Hardcore",
+    "link": "https://open.spotify.com/artist/5vA01WbE14l3I5y7B7Lp0u",
+    "imagem": "https://www.noecho.net/uploads/wysiwyg/strife-witness-a-rebirth-studio.jpg"
+  },
+  {
+    "nome": "Integrity",
+    "cidade": "Cleveland",
+    "descricao": "Pioneiros do som Holy Terror, misturando hardcore, metal extremo e temas ocultos/apocalípticos. Uma banda sombria e influente.",
+    "subgenero": "Metallic Hardcore",
+    "link": "https://open.spotify.com/artist/5R6u2X1N3U7xYmYh78Y59z",
+    "imagem": "https://www.wikimetal.com.br/wp-content/uploads/2025/10/Integrity.-Creditos-Divulgacao.jpg"
+  },
+  {
+    "nome": "Converge",
+    "cidade": "Salem",
+    "descricao": "Líderes indiscutíveis do mathcore/metallic hardcore. Conhecidos por sua complexidade técnica, fúria vocal de Jacob Bannon e a produção densa.",
+    "subgenero": "Mathcore",
+    "link": "https://open.spotify.com/artist/1mdwtHIvLAOZ8FEBSqeUeE",
+    "imagem": "https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2019/10/Converge-por-David-Robinson.jpg"
+  },
+  {
+    "nome": "Pianos Become The Teeth",
+    "cidade": "Baltimore",
+    "descricao": "Banda de post-hardcore fortemente influenciada pelo emo e screamo. Seu som é marcado por letras introspectivas e passagens dinâmicas, do suave ao explosivo.",
+    "subgenero": "Post-Hardcore",
+    "link": "https://open.spotify.com/artist/4C0hVbL6gL3Yc8T9I5XwYd",
+    "imagem": "https://guitar.com/wp-content/uploads/2022/08/PianosBecomeTheTeeth-Credit-MicahEWood-HERO@2000x1500.jpg"
+  },
+  {
+    "nome": "The Exploited",
+    "cidade": "Edimburgo",
+    "descricao": "Banda escocesa icônica do punk UK82/Street Punk, com forte influência no desenvolvimento do som hardcore inicial, conhecidos por sua atitude antiautoritária.",
+    "subgenero": "Hardcore Punk",
+    "link": "https://open.spotify.com/artist/1S9xrRYm4AMQtay2G1HT0b",
+    "imagem": "https://universoretro.com.br/wp-content/uploads/2022/04/the-exploited.jpg"
+  },
+  {
+    "nome": "Varukers",
+    "cidade": "Burton-upon-Trent",
+    "descricao": "Uma das bandas mais importantes do D-beat e do hardcore punk britânico, com som cru, rápido e altamente político.",
+    "subgenero": "D-beat",
+    "link": "https://open.spotify.com/artist/33y64wQhQ8X7dY8h72kMfn",
+    "imagem": "https://www.jornalnopalco.com.br/wp-content/uploads/2018/11/Varukers.jpg"
+  },
+  {
+    "nome": "Misfits",
+    "cidade": "Lodi",
+    "descricao": "Embora criadores do Horror Punk, sua fase inicial foi crucial para o desenvolvimento do hardcore melódico e rápido na Costa Leste.",
+    "subgenero": "Horror Punk",
+    "link": "https://open.spotify.com/artist/1G0hAAhpmfo6QSYjE0PYdl",
+    "imagem": "https://rockstage.com.br/wp-content/uploads/2024/10/the-misfits-1978.webp"
+  },
+  {
+    "nome": "The Dillinger Escape Plan",
+    "cidade": "Morris Plains",
+    "descricao": "Pioneiros e mestres do mathcore caótico, sua agressividade e complexidade técnica influenciaram diretamente bandas de metallic hardcore e metalcore.",
+    "subgenero": "Mathcore",
+    "link": "https://open.spotify.com/artist/7IGPDHF5xTzKmtHKJzNkjD",
+    "imagem": "https://i0.wp.com/www.wikimetal.com.br/wp-content/uploads/2017/02/The-Dillinger-Escape-Plan-2017.png?fit=630%2C420&ssl=1"
+  },
+  {
+    "nome": "Life of Agony",
+    "cidade": "Nova York",
+    "descricao": "Banda de Nova York que começou com um som fortemente influenciado pelo NYHC/crossover, mas evoluiu para o metal alternativo, mantendo a intensidade emocional.",
+    "subgenero": "Crossover",
+    "link": "https://open.spotify.com/artist/7QNDr3J7TqIYNrDNb2NfCM",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Loa-band-01.jpg"
+  },
+  {
+    "nome": "No Warning",
+    "cidade": "Toronto",
+    "descricao": "Banda canadense que trouxe o metallic hardcore e o mosh de volta aos holofotes nos anos 2000, com riffs pesados e groove palpável.",
+    "subgenero": "Metallic Hardcore",
+    "link": "https://open.spotify.com/artist/1VvS4r0c7JpP3Wj85YmQnF",
+    "imagem": "https://images.squarespace-cdn.com/content/v1/54749e9be4b035ef76f778db/1484325154905-8FJZJ8P0J81386Y76GGE/11149381_886063724783115_6669824081135812606_n.jpg"
+  },
+  {
+    "nome": "D.R.I. (Dirty Rotten Imbeciles)",
+    "cidade": "Houston",
+    "descricao": "Considerados inventores do 'Crossover Thrash', esta banda de Houston é conhecida por sua fusão rápida e caótica de thrash metal e hardcore punk.",
+    "subgenero": "Crossover Thrash",
+    "link": "https://open.spotify.com/artist/1WfE9fJj0EwW5N86qV5gqY",
+    "imagem": "https://arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/BOZYBJRPIQI6NMFAEZG5AQCCGU.jpg"
+  },
+  {
+    "nome": "Municipal Waste",
+    "cidade": "Richmond",
+    "descricao": "Líderes do ressurgimento do Crossover Thrash moderno, conhecidos por suas músicas rápidas, bem-humoradas e celebração da cultura skate/festa.",
+    "subgenero": "Crossover Thrash",
+    "link": "https://open.spotify.com/artist/4IfqcH6zE2OjH9FPJ7bSgo",
+    "imagem": "https://images.squarespace-cdn.com/content/v1/58e915c0c534a5cb833de10d/1491866078517-G23OCVGJONVPFVF6FR7M/image-asset.jpeg"
+  },
+  {
+    "nome": "Power Trip",
+    "cidade": "Dallas",
+    "descricao": "Banda texana que dominou o Crossover Thrash nos anos 2010, combinando a fúria do hardcore com o peso e precisão do metal. Altamente aclamada.",
+    "subgenero": "Crossover Thrash",
+    "link": "https://open.spotify.com/artist/3TpPFrL7H4mfF3p96o630W",
+    "imagem": "https://ca-times.brightspotcdn.com/dims4/default/648fa42/2147483647/strip/true/crop/2386x1861+0+0/resize/1200x936!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2Fd7%2F7290f9e245b89c693f58ebc5df85%2F728330-et-ms-power-trip-03.JPG"
+  }
+]
